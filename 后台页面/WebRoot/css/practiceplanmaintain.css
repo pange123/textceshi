@@ -1,0 +1,203 @@
+@charset "utf-8";
+/* CSS Document */
+table thead > tr> td{
+	font-size:16px;
+	background: -moz-linear-gradient(top, #e7eef3 0%, #cedee8 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#e7eef3), color-stop(100%,#cedee8));
+    background: -webkit-linear-gradient(top, #000000 0%,#cedee8 100%);
+    background: -o-linear-gradient(top, #e7eef3 0%,#cedee8 100%);
+    background: -ms-linear-gradient(top, #e7eef3 0%,#cedee8 100%);
+    background: linear-gradient(to bottom, #e7eef3 0%,#cedee8 100%);
+	}
+
+table thead tr th{
+	text-align:center;}
+table tbody tr td{
+	text-align:center;
+	cursor: pointer;
+}
+#showtable{
+	margin-bottom:3px !important;
+}
+#showtable tr td{
+	border: none;
+	text-align:left;
+}
+#Applychart{
+	position:fixed !important;
+	top:112px;
+	left:19%;
+	width: 80%;
+	display: none;	
+}
+#modalcontent{
+	margin-top: 20%;
+}
+.noborder{
+	border: none !important;
+	
+}
+#classname{
+	border: none;
+}
+#grade{
+	border: none;
+}
+#number{
+	border: none;
+}
+#weeks{
+	border: none;
+}
+#practiceapplytable span{
+	cursor:pointer;
+	font-size:18px;
+	color:#24354a;}
+
+.inputWidth{
+	width: 80px;
+}
+#Leaderteacher{
+	width: 100%;
+}
+#adviser{
+	width: 100%;
+}
+#testername{
+	width: 80%;
+	float: left;
+}
+.buttonWidth{
+	margin-left: 5px;
+}
+.exeWidth{
+	width: 80% !important;
+}
+.bottom{
+	margin-top:10px;
+	}
+.dataTables_length{
+	margin-left:5%;}
+.deleteID{
+	color:#F90409;
+	text-decoration: underline;
+}
+#table{
+	width:100%;
+}
+#table tr{
+	line-height: 30px;
+}
+#table tbody td{
+	padding:0px 3px;
+}
+#table input{
+	line-height: 23px !important;
+}
+#table select{
+	line-height: 23px !important;
+	width: 100%;
+}
+.spanstyle{
+	font-size: 10px;
+	line-height: 15px;
+}
+.starColor{
+	color: #F70004;
+}
+
+#class{
+	width:82%;
+}
+.setTag{
+	color: #F70004;
+	font-size:20px;
+}
+.input-group-addon{
+	color: #fff;
+	background-color: #3071a9 !important;
+}
+#td	{
+		position: relative;
+	}
+	#select{
+		position:absolute;
+		top:40px;
+		left: 9px;
+		background-color: #F7F7F7;
+	}
+
+.laydate_yms {
+	width:123px !important;
+}
+
+.modalbody{
+	height:432px;
+	overflow-y:auto;
+	}
+.modalbody2{
+	height:592px;
+	overflow-y:auto;
+	}
+.modalbody3{
+	height:652px;
+	overflow-y:auto;
+	}
+#Stime{
+	height:35px;
+}
+#Etime{
+	height:35px;
+}
+.startweek{
+	width:100px;
+}
+.endweek{
+	width:100px;
+}
+div.Iwidth{
+	width:100% !important;
+}
+#chu{
+	float:right;
+	margin-left:5px;
+}
+#daoru{
+	float:right;
+	margin-left:5px;
+}
+#LinkButton{
+	float:right;
+	margin-left:5px;
+}
+#checkIsSave{
+	float:right;
+	margin-left:5px;
+}
+#remind{
+	display:block;
+	float:right;
+	color:#3EAB58;
+	padding-top:10px;
+	font-size:20px;
+}
+#add{
+	display:block;
+	float:right;
+	margin-left:5px;
+}
+#delete{
+	display:block;
+	float:right;
+	margin-left:5px;
+}
+#updatePlan{
+	display:block;
+	float:right;
+	margin-left:5px;
+}
+#add{
+	display:block;
+	float:right;
+	margin-left:5px;
+}
